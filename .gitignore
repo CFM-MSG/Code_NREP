@@ -1,0 +1,3 @@
+data/feats/*
+models/*
+*.pyc
